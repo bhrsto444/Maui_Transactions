@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TokoviNovca.MVVM.Views.Transakcije"
+             Title="Transakcije"
+             NavigationPage.HasNavigationBar="False">
+    
+    <Grid RowDefinitions=".15*, .15*, .70*">
+        <RoundRectangle Grid.RowSpan="2" StyleClass="TopRectangle"/>
+        <VerticalStackLayout StyleClass="Header">
+            <Label StyleClass="HeaderSubTitle"
+                   Text="Dodaj transakciju"/>
+        </VerticalStackLayout>
+
+        <Grid
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            StyleClass="BalancedGrid">
+            <RoundRectangle StyleClass="BalanceRectangle" 
+                            Fill="{StaticResource Dark Orange}"
+                            Margin="10,0,10,10"/>
+            <VerticalStackLayout Spacing="10" StyleClass="Padding25">
+                <Label Text="Naziv Transakcije"/>
+                <Frame StyleClass="FrameBorder">
+                    <Entry Text="{Binding Transaction.Name}"/>
+                </Frame>
+                
+                <Label StyleClass="MarginT15" Text="Iznos"/>
+                <Frame StyleClass="FrameBorder">
+                    <Entry Text="{Binding Transaction.Amount}"
+                           VerticalOptions="Center"
+                           Keyboard="Numeric"/>
+                </Frame>
+
+                <Label StyleClass="MarginT15" Text="Datum Transakcije"/>
+                <Frame StyleClass="FrameBorder">
+                    <DatePicker Date="{Binding Transaction.OperationDate}"/>
+                </Frame>
+
+                <HorizontalStackLayout>
+                    <CheckBox IsChecked="{Binding Transaction.IsIncome}" Color="Green"/>
+                    <Label Text="Je li prihod?"/>
+                </HorizontalStackLayout>
+
+                <Button StyleClass="MarginT15" Text="Save" x:Name="Save" 
+                        Clicked="Save_Clicked" BackgroundColor="Green"/>
+                <Button StyleClass="MarginT15, RedControl" Text="Cancel" 
+                        x:Name="Cancel" Clicked="Cancel_Clicked" BackgroundColor="Red"/>
+            </VerticalStackLayout>
+        </Grid>
+
+    </Grid>
+</ContentPage>

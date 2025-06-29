@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TokoviNovca.MVVM.Views.AppContainer"
+            xmlns:views="clr-namespace:TokoviNovca.MVVM.Views"
+             Title="AppContainer">
+    
+    <NavigationPage Title="Popis">
+        <x:Arguments>
+            <views:Popis/>
+        </x:Arguments>
+    </NavigationPage>
+
+    <views:Statistika Title="Statistika"/>
+</TabbedPage>

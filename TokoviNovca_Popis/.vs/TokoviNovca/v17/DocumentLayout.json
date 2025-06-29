@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\converters\\amounttocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\converters\\amounttocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\views\\statistika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\views\\statistika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\views\\popis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\views\\popis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\converters\\amounttocurrencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\converters\\amounttocurrencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\viewmodels\\statistikaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\viewmodels\\statistikaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\models\\transactionssummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\models\\transactionssummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\views\\popis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\views\\popis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\viewmodels\\popisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\viewmodels\\popisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\viewmodels\\transakcijeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\viewmodels\\transakcijeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\abstractions\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\abstractions\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\abstractions\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\abstractions\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\views\\statistika.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\views\\statistika.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\views\\transakcije.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\views\\transakcije.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\tokovinovca_popis\\tokovinovca\\mvvm\\views\\transakcije.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1520D672-A4EC-4EC6-B5C8-5544B92429FB}|TokoviNovca\\TokoviNovca.csproj|solutionrelative:tokovinovca\\mvvm\\views\\transakcije.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatistikaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\ViewModels\\StatistikaViewModel.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\ViewModels\\StatistikaViewModel.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\ViewModels\\StatistikaViewModel.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\ViewModels\\StatistikaViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:44:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AmountToCurrencyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Converters\\AmountToCurrencyConverter.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\Converters\\AmountToCurrencyConverter.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Converters\\AmountToCurrencyConverter.cs",
+              "RelativeToolTip": "TokoviNovca\\Converters\\AmountToCurrencyConverter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:41:36.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmountToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Converters\\AmountToColorConverter.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\Converters\\AmountToColorConverter.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Converters\\AmountToColorConverter.cs",
+              "RelativeToolTip": "TokoviNovca\\Converters\\AmountToColorConverter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:05:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Popis.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Popis.xaml.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Views\\Popis.xaml.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Popis.xaml.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Views\\Popis.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:21:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistika.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Statistika.xaml",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Views\\Statistika.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Statistika.xaml",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Views\\Statistika.xaml",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBZwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-15T20:24:16.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Popis.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Popis.xaml",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Views\\Popis.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Popis.xaml",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Views\\Popis.xaml",
+              "ViewState": "AQIAACoAAAAAAAAAACBjwEUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-15T21:15:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Models\\Transaction.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:15:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopisViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\ViewModels\\PopisViewModel.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\ViewModels\\PopisViewModel.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\ViewModels\\PopisViewModel.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\ViewModels\\PopisViewModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:12:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionsSummary.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Models\\TransactionsSummary.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Models\\TransactionsSummary.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Models\\TransactionsSummary.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Models\\TransactionsSummary.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:26:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransakcijeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\ViewModels\\TransakcijeViewModel.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\ViewModels\\TransakcijeViewModel.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\ViewModels\\TransakcijeViewModel.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\ViewModels\\TransakcijeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:44:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Constants.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\Constants.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Constants.cs",
+              "RelativeToolTip": "TokoviNovca\\Constants.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:21:50.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "TokoviNovca\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:57:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Statistika.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Statistika.xaml.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Views\\Statistika.xaml.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Statistika.xaml.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Views\\Statistika.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:24:19.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Transakcije.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Transakcije.xaml",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Views\\Transakcije.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Transakcije.xaml",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Views\\Transakcije.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T16:36:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TokoviNovca\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\AppShell.xaml",
+              "RelativeToolTip": "TokoviNovca\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T11:16:32.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Abstractions\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\Abstractions\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Abstractions\\IBaseRepository.cs",
+              "RelativeToolTip": "TokoviNovca\\Abstractions\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:18:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TableData.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Abstractions\\TableData.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\Abstractions\\TableData.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\Abstractions\\TableData.cs",
+              "RelativeToolTip": "TokoviNovca\\Abstractions\\TableData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:18:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TokoviNovca\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MainPage.xaml",
+              "RelativeToolTip": "TokoviNovca\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T11:16:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\App.xaml",
+              "RelativeDocumentMoniker": "TokoviNovca\\App.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\App.xaml",
+              "RelativeToolTip": "TokoviNovca\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T11:16:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\App.xaml.cs",
+              "RelativeToolTip": "TokoviNovca\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:18:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MauiProgram.cs",
+              "RelativeToolTip": "TokoviNovca\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:52:16.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Transakcije.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Transakcije.xaml.cs",
+              "RelativeDocumentMoniker": "TokoviNovca\\MVVM\\Views\\Transakcije.xaml.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\TokoviNovca_Popis\\TokoviNovca\\MVVM\\Views\\Transakcije.xaml.cs",
+              "RelativeToolTip": "TokoviNovca\\MVVM\\Views\\Transakcije.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:08:33.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
